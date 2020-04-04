@@ -1,0 +1,18 @@
+{
+	"title" : "Landing Page with Javascript",
+	"slug" : "landing-page-javascript",
+	"status": "published",
+	"duration" : 8,
+	"video-id": "Qm8wMrmdjrY",
+	"difficulty": "intermediate",
+	"technologies": ["javacript", "html", "vanillajs", "css", "html/css"],
+	"description" : "Build a real life beautiful landing page without any framework and collecting leads",
+	"talents": [
+		{ "badge": "identator", "points": 10 },
+		{ "badge": "tag-master", "points": 10 },
+		{ "badge": "path-master", "points": 10 },
+		{ "badge": "select-everything", "points": 10 },
+		{ "badge": "be-dry", "points": 10 },
+		{ "badge": "abc", "points": 10 }
+	]
+}
