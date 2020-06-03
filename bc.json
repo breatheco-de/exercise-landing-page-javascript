@@ -5,6 +5,7 @@
 	"duration" : 8,
 	"video-id": "Qm8wMrmdjrY",
 	"difficulty": "intermediate",
+	"preview": "https://github.com/breatheco-de/exercise-landing-page-javascript/blob/master/thumb.png?raw=true",
 	"technologies": ["javacript", "html", "vanillajs", "css", "html/css"],
 	"description" : "Build a real life beautiful landing page without any framework and collecting leads",
 	"talents": [
