@@ -15,7 +15,6 @@ $ git clone https://github.com/breatheco-de/exercise-landing-page-javascript.git
 ```
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
-
 ## 📝 Instructions
 
 Demonstrate how you can build this beautiful landing page without the need of bootstrap:
