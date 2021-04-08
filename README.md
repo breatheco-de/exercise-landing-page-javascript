@@ -6,19 +6,14 @@ The best way to learn is by creating real life projects, this is the typical lan
 
 ## 🌱  How to start this project
 
-Do not clone this repository.
+This project comes with the necessary files to start working, but you have two options to start:
 
-The first step to start coding is cloning the [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) on your local computer or opening it using gitpod.
-
-a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/vanillajs-hello).
-
-b) If working locally type the following command from your command line: 
+a) Open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-landing-page-javascript.git
+b) You can clone this repository on your local computer:
 ```sh
-$ git clone https://github.com/4GeeksAcademy/vanillajs-hello
-````
-
+$ git clone https://github.com/breatheco-de/exercise-landing-page-javascript.git
+```
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
-
 
 ## 📝 Instructions
 
