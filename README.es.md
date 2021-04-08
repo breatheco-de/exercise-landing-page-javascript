@@ -4,18 +4,15 @@
 
 La mejor manera de aprender es creando proyectos de la vida real, esta es la página de inicio típica que a tu jefe o al propietario de una empresa nueva le gustaría construir.
 
-REACT BOILERPLATE SPANISH
-
 ## 🌱  Cómo iniciar este proyecto
 
-No clones este repositorio. El primer paso para comenzar a codificar es clonar el [vanilla.js boilerplate](hhttps://github.com/4GeeksAcademy/vanillajs-hello) en tu compjutador local o con Gitpod.
+Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/vanillajs-hello).
-
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+a) Abrir este link con Gitpod en tu navegador: https://gitpod.io#https://github.com/breatheco-de/exercise-landing-page-javascript.git
+b) Clonar este repositorio localmente en tu computador:
 ```sh
-git clone https://github.com/4GeeksAcademy/vanillajs-hello
-````
+$ git clone https://github.com/breatheco-de/exercise-landing-page-javascript.git
+```
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
