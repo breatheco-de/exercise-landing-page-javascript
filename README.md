@@ -1,6 +1,4 @@
-<!--hide-->
-# Simple Landing Page
-<!--endhide-->
+# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Simple Landing Page
 
 ![Landing page Javascript Preview](https://github.com/breatheco-de/landing-page-javascript/blob/master/preview.gif?raw=true)
 
