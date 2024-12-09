@@ -6,6 +6,8 @@
 
 The best way to learn is by creating real life projects, this is the typical landing page your boss or a startup company owner will like to build.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  How to start this project
 
 This project comes with the necessary files to start working, but you have two options to start:
@@ -16,6 +18,8 @@ b) You can clone this repository on your local computer:
 $ git clone https://github.com/breatheco-de/exercise-landing-page-javascript.git
 ```
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
+</onlyfor>
 
 ## 📝 Instructions
 
