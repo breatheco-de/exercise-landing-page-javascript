@@ -5,6 +5,8 @@
 
 La mejor manera de aprender es creando proyectos de la vida real, esta es la página de inicio típica que a tu jefe o al propietario de una empresa nueva le gustaría construir.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  Cómo iniciar este proyecto
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
@@ -17,6 +19,7 @@ $ git clone https://github.com/breatheco-de/exercise-landing-page-javascript.git
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
+</onlyfor>
 
 ## 📝 Instrucciones
 
