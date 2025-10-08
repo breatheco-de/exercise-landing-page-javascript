@@ -1,13 +1,20 @@
 {
-	"title" : "Landing Page with Javascript",
+	"title" : {
+		"us": "Landing Page with Javascript",
+		"es": "Página de destino con Javascript"
+	},
 	"slug" : "landing-page-javascript",
 	"status": "published",
 	"duration" : 8,
+	"template_url": "self",
 	"video-id": "Qm8wMrmdjrY",
 	"difficulty": "intermediate",
 	"preview": "https://github.com/breatheco-de/exercise-landing-page-javascript/blob/master/thumb.png?raw=true",
 	"technologies": ["javacript", "html", "vanillajs", "css", "html/css"],
-	"description" : "Build a real life beautiful landing page without any framework and collecting leads",
+	"description": {
+		"us": "Build a professional, pixel-perfect landing page using only HTML, CSS, and JavaScript—no Bootstrap needed! Recreate a realistic design layout with Flexbox, reusable classes, and optional email capture via formsubmit.co. Ideal for practicing front-end fundamentals.",
+		"es": "Crea una landing page profesional y visualmente perfecta utilizando solo HTML, CSS y JavaScript, ¡sin necesidad de Bootstrap! Reproduce un diseño realista con Flexbox, clases reutilizables y, opcionalmente, captura correos mediante formsubmit.co. Ideal para practicar fundamentos front-end."
+	},
 	"talents": [
 		{ "badge": "identator", "points": 10 },
 		{ "badge": "tag-master", "points": 10 },
@@ -17,5 +24,8 @@
 		{ "badge": "abc", "points": 10 }
 	],
     "autoPlay": false,
-    "projectType": "project"
+    "projectType": "project",
+	"telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=174"
+  }
 }
